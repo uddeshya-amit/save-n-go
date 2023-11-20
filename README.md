@@ -6,6 +6,9 @@ Save-n-go is a lightweight Chrome extension designed to enhance your browsing ex
 
 ## Features
 **Save Current Tab:** Instantly save the tab you are currently viewing with a single click.
+
 **Manual Input:** Add custom entries manually, including links, notes, or any information you want to revisit later.
+
 **Local Storage:** All your saved data is securely stored in your browser's local storage, ensuring privacy and quick access.
+
 **User-Friendly Interface:** Simple and intuitive UI for a seamless experience.
